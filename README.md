@@ -5,7 +5,7 @@
 <br>
 *Link către demonstrația video: https://youtu.be/0MtbeqUoSfE*
 
-### 1. *Definirea Scopului Aplicatiei*
+### 1. *Definirea Scopului Aplicației*
 
 Scopul Aplicației este acela de a crea o interfață pentru gestionarea rezervărilor dintr-un Escape Room, precum și notificarea pe email a persoanelor care au făcut rezervarea. Pentru aceasta s-au folosit servicii în cloud precum SendGrid, pentru trimiterea automata de email-uri, și Google Cloud SQL pentru stocarea persistentă a bazei de date MySQL pe cloud.
 
@@ -66,7 +66,7 @@ Răspunsul primit este acela de status 202, ceea ce înseamnă că mesajul a fos
 ![image](https://user-images.githubusercontent.com/72069133/168486993-4cf7f706-b394-45c7-bbb1-b4ee40aa9837.png)
 Aplicația este alcătuită din trei componente:
 - O listă care afișează din baza de date rezervările făcute până în acel moment
-- Un forumar de adăugare al unei noi rezervări
+- Un formular de adăugare al unei noi rezervări
 - Un formular care trimite cu ajutorul lui Sendgrid email-uri care conțin detalii legate de rezervarea făcută de acea persoană
 
 ![image](https://user-images.githubusercontent.com/72069133/168487178-9a8cceca-07ea-4d1f-845b-74a11b664dab.png)
