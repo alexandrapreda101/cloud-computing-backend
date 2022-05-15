@@ -1,0 +1,27 @@
+{
+  "name": "cloud-computing-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrapreda101/cloud-computing-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrapreda101/cloud-computing-course/issues"
+  },
+  "homepage": "https://github.com/alexandrapreda101/cloud-computing-course#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.2",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
