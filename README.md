@@ -2,6 +2,8 @@
 
 #### Preda Alexandra-Maria
 *Link către aplicația publicată pe Heroku: https://still-plains-65111.herokuapp.com/*
+<br>
+*Link către demonstrația video: https://youtu.be/0MtbeqUoSfE*
 
 ### 1. *Definirea Scopului Aplicatiei*
 
